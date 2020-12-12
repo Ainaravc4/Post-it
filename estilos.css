@@ -1,0 +1,43 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background-color: cornsilk;
+}
+header{
+    margin: 0%;
+    padding: 0%;
+    height: 6vh;
+    background-color: cornflowerblue;
+
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+}
+ul{
+    color: white;
+    margin: 0%;
+    list-style: none;
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+
+}
+ul li{
+    border: 1px solid white;
+    padding: .5rem;
+    margin-left: 1rem;
+}
+ul li:hover{
+    background-color: blue;
+}
+ul label{
+    align-self: center;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+ul input{
+    align-self: center;
+    height: 1rem;
+}
+
+
