@@ -14,4 +14,4 @@ Modificar el contenido de una nota ya creada.
 Mostrar el tiempo transcurrido desde la creación de la nota (debe mostrarlo en minutos y actualizarse dinámicamente).
 
 Enlace Resultado:
-https://github.com/Ainaravc4/Post-it.git
+https://ainaravc4.github.io/Post-it/index.html
